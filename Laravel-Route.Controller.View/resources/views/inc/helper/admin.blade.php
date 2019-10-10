@@ -1,1 +1,0 @@
-<h3>Admin mangaes all.</h3>

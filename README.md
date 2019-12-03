@@ -6,18 +6,18 @@ Controller
 
 View
 
-Middleware
-
-CSRF protection
-
-Request
-
-Response
-
-URL generation
-
 Session
 
 Validation
 
 Error Handling
+
+Middleware
+
+Email verification
+
+Authentication
+
+Relationship
+
+Basic Crud operation
